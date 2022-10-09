@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shabeer3508
 - 👀 I’m interested in Software Development
-- 🌱 I’m currently learning [Fastify](https://www.fastify.io/)
+- 🌱 I’m currently learning [Rust](https://www.rust-lang.org)
 - 💞️ I’m looking to collaborate on nothing
 - 📫 How to reach me ? visit https://shabeerali.vercel.app 
 
