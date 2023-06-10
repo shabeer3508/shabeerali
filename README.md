@@ -2,7 +2,7 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning [Rust](https://www.rust-lang.org)
 - 💞️ I’m looking to collaborate on nothing
-- 📫 How to reach me ? visit https://shabeerali.vercel.app 
+- 📫 How to reach me ? visit https://www.shabeerali.dev
 
 <!---
 shabeer3508/shabeer3508 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
